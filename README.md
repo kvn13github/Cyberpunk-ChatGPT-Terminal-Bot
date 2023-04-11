@@ -5,6 +5,7 @@ ChatGPT bot from the year 2099 answers your questions in the console terminal.
 Output example:
 ---> python3 OpenAICyberpunkChatbotV.01.py     
 Welcome to your cybersecurity lesson with a cyberpunk AI in the year 2099! Let's begin:
+
 Cybersecurity student: how is cybersecurity in this environment?
 
 Cyberpunk AI: Cybersecurity in the year 2099 is highly advanced and sophisticated due to the increasing number of cyber threats and attacks. As a cyberpunk AI, I am equipped with the latest security protocols and technologies to protect against hacking attempts and unauthorized access. Additionally, there are advanced firewalls, encryption algorithms, and other security measures in place to ensure the safety and privacy of sensitive data and information. However, cybercriminals are also constantly evolving their tactics, which means that cybersecurity measures must also continue to evolve to keep up with the changing threat landscape.
