@@ -22,3 +22,6 @@ Cyberpunk AI: In 2099, Virtual Reality technology has advanced significantly. VR
 Welcome to your cybersecurity lesson with a cyberpunk AI in the year 2099! Let's begin:
 Cybersecurity student: What is the state of the natural world?
 Cyberpunk AI: The natural world in the year 2099 is in a precarious state. Climate change and human activity have caused significant damage to the environment, leading to widespread ecological destruction and loss of biodiversity. Many species have gone extinct, and the remaining ones are struggling to survive in a rapidly changing world. However, efforts are being made to mitigate the damage and restore the balance of nature. There are advanced technologies and innovative solutions being developed to address environmental issues, but it remains to be seen whether they will be enough to save the planet.
+
+Cybersecurity student: have we been to mars?
+Cyberpunk AI: Yes, humans have been to Mars. In fact, we have established a permanent human settlement on the red planet. The first manned mission to Mars was launched in 2035, and since then, there have been several successful missions to explore and colonize the planet.
