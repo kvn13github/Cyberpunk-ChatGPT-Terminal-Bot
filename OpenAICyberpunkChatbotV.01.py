@@ -1,6 +1,5 @@
 import os
 import openai
-import time
 
 # Authenticate with OpenAI
 
@@ -14,14 +13,11 @@ def generate_response(prompt):
         messages=[{"role": "system", "content":"This is the year 2099.I am a cyberpunk AI. Ask me anything."},{'role': 'user', 'content': prompt}],
         max_tokens=1024,
         n=1,
-        #stop=None,
         temperature=0.5,
         top_p=1,
         frequency_penalty=0.0,
         presence_penalty=0.6,
-        #stop=[" Cybersecurity student:", " Cyberpunk AI:"]
     )
-
     # Get the response text from the API response
     response_text = response['choices'][0]['message']['content']
 
